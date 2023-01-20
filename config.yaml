@@ -1,4 +1,24 @@
 baseURL: 'http://localhost:1313'
-languageCode: 'en-us'
+languageCode: 'zh-cn'
 title: "Hugo Site"
 theme: 'hugo-theme-tokiwa'
+copyright: '<p xmlns:cc="http://creativecommons.org/ns#" >This work by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://blog.xiaodiandong.xyz">Billy Yang</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0</a></p>'
+
+hasCJKLanguage: true
+
+params:
+  math: true
+  useChineseFonts: true
+
+social:
+  github: "https://github.com/handsomexdd1024"
+
+menu:
+  main:
+  - identifier: posts
+    url: /post/
+    name: Posts
+    weight: 1
+  - name: Tags
+    url: /tags/
+    weight: 2

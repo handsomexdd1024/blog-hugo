@@ -1,9 +1,9 @@
 ---
-title: "My First Post"
+title: "Hello Hugo World"
 date: 2023-01-19T23:56:59+08:00
-draft: true
+draft: false
 ---
 
-# test
+Hugo写的第一篇文章。简单看了下功能，好像确实比hexo多不少（当然hexo我也只是简单看了下，没深挖功能）。
 
-hugo test
+毕竟是心心念念的个人博客，我想两种框架都尝试一下，然后选定一种学一学，一直维护下去，作为我个人生活的记录。

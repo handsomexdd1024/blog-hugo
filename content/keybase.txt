@@ -1,0 +1,56 @@
+==================================================================
+https://keybase.io/handsomexdd1024
+--------------------------------------------------------------------
+
+I hereby claim:
+
+  * I am an admin of https://blog.xiaodiandong.xyz
+  * I am handsomexdd1024 (https://keybase.io/handsomexdd1024) on keybase.
+  * I have a public key ASBn6dCBq-wnmsd-v0GTkouE60bo2DMtkku29IdymyZsZAo
+
+To do so, I am signing this object:
+
+{
+  "body": {
+    "key": {
+      "eldest_kid": "0120517a050db7d0fa6e3295dbcc009e305683aa432cab1ffa5f880ba49ca3b33b040a",
+      "host": "keybase.io",
+      "kid": "012067e9d081abec279ac77ebf4193928b84eb46e8d8332d924bb6f487729b266c640a",
+      "uid": "47180c0ff9c72e41e4fadc388210a819",
+      "username": "handsomexdd1024"
+    },
+    "merkle_root": {
+      "ctime": 1674318002,
+      "hash": "1fe04e0de7cc28ae1c772620765b78dd6d2b72e13ac9178750647c0f2cbfcd0ac5f0fececfea047313d26623548eac9c6953136443e0ce2762b0a420aa968bd7",
+      "hash_meta": "0981a321c87dd2f2e16e0830406cfa87adc47e55173a676b1f116636c0921ef1",
+      "seqno": 23907271
+    },
+    "service": {
+      "entropy": "tTukt+PKLldHmChj0gJSPjNm",
+      "hostname": "blog.xiaodiandong.xyz",
+      "protocol": "https:"
+    },
+    "type": "web_service_binding",
+    "version": 2
+  },
+  "client": {
+    "name": "keybase.io go client",
+    "version": "6.0.2"
+  },
+  "ctime": 1674318016,
+  "expire_in": 504576000,
+  "prev": "4952805cc9049daacf402a00937f73445ec3f5259d4ca16f474cba7753370c2c",
+  "seqno": 18,
+  "tag": "signature"
+}
+
+which yields the signature:
+
+hKRib2R5hqhkZXRhY2hlZMOpaGFzaF90eXBlCqNrZXnEIwEgZ+nQgavsJ5rHfr9Bk5KLhOtG6NgzLZJLtvSHcpsmbGQKp3BheWxvYWTESpcCEsQgSVKAXMkEnarPQCoAk39zRF7D9SWdTKFvR0y6d1M3DCzEIK4ktUBM9SStNoXF+eciXEUfew9dyAGdUC5vL9e2RviSAgHCo3NpZ8RALHZovffkvVO5bkosO0/4hqJjS9Y2RwqvbDedtAG9xC7O1ojQ43JMIXJcB+bELl2N7+SBpZB7g2ZijkR/HmYZD6hzaWdfdHlwZSCkaGFzaIKkdHlwZQildmFsdWXEIFngd3YNOEoBypwBl7Z5GQvEiIYZxamVxLKTxMWWxsW2o3RhZ80CAqd2ZXJzaW9uAQ==
+
+And finally, I am proving ownership of this host by posting or
+appending to this document.
+
+View my publicly-auditable identity here: https://keybase.io/handsomexdd1024
+
+==================================================================

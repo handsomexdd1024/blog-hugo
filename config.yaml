@@ -1,4 +1,4 @@
-baseURL: 'http://localhost:1313'
+# baseURL: 'http://localhost:1313'
 languageCode: 'zh-cn'
 title: "小电动的大电池"
 theme: 'hugo-theme-tokiwa'
@@ -12,7 +12,7 @@ params:
   math: true
   fuse: true
   useChineseFonts: true
-  description: "小电动的个人博客"
+  description: "小电动的个人博客（正在建设中）"
   outputs:
     home: ["HTML", "JSON", "RSS"]
 

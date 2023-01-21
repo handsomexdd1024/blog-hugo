@@ -2,27 +2,43 @@ baseURL: 'http://localhost:1313'
 languageCode: 'zh-cn'
 title: "小电动的大电池"
 theme: 'hugo-theme-tokiwa'
-copyright: '<p xmlns:cc="https://creativecommons.org/ns#" >Copyright © 2008–2019 Billy Yang. Contents licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0</a></p>'
+
+author: Billy Yang
+copyright: '<p xmlns:cc="https://creativecommons.org/ns#" >Copyright © 2023 Billy Yang.<br>Contents licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/deed.en" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0</a></p>'
 
 hasCJKLanguage: true
 
 params:
   math: true
+  fuse: true
   useChineseFonts: true
+  description: "小电动的个人博客"
+  outputs:
+    home: ["HTML", "JSON", "RSS"]
+
+taxonomies:
+  category: "categories"
+  tag: "tags"
+  series: "series"
 
 social:
   github: "https://github.com/handsomexdd1024"
+  mail: "mailto:handsomexdd1024@gmail.com"
 
-menu:
+menus:
   main:
-  - name: 文章
-    identifier: posts
-    url: /posts/
-    weight: 3
-  - name: 标签
-    url: /tags/
-    weight: 2
   - name: 关于我
     url: /about/
     weight: 1
+  - name: 标签云
+    url: /tags/
+    weight: 2
+  - name: 分类
+    url: /categories/
+    weight: 2
+  - name: 文章
+    # identifier: posts
+    url: /posts/
+    weight: 3
+
 

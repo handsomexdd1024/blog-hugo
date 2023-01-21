@@ -1,8 +1,8 @@
 baseURL: 'http://localhost:1313'
 languageCode: 'zh-cn'
-title: "Hugo Site"
+title: "小电动的大电池"
 theme: 'hugo-theme-tokiwa'
-copyright: '<p xmlns:cc="http://creativecommons.org/ns#" >This work by <a rel="cc:attributionURL dct:creator" property="cc:attributionName" href="https://blog.xiaodiandong.xyz">Billy Yang</a> is licensed under <a href="http://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0</a></p>'
+copyright: '<p xmlns:cc="https://creativecommons.org/ns#" >Copyright © 2008–2019 Billy Yang. Contents licensed under <a href="https://creativecommons.org/licenses/by-nc-sa/4.0/?ref=chooser-v1" target="_blank" rel="license noopener noreferrer" style="display:inline-block;">CC BY-NC-SA 4.0</a></p>'
 
 hasCJKLanguage: true
 
@@ -15,10 +15,14 @@ social:
 
 menu:
   main:
-  - identifier: posts
-    url: /post/
-    name: Posts
-    weight: 1
-  - name: Tags
+  - name: 文章
+    identifier: posts
+    url: /posts/
+    weight: 3
+  - name: 标签
     url: /tags/
     weight: 2
+  - name: 关于我
+    url: /about/
+    weight: 1
+

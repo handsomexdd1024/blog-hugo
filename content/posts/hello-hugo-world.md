@@ -2,7 +2,7 @@
 title: "Hello Hugo World"
 date: 2023-01-21T20:00:00+08:00
 draft: false
-tags:
+categories:
 - 博客建设
 ---
 

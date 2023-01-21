@@ -28,4 +28,4 @@ draft: false
 
 [keybase: handsomexdd1024](https://keybase.io/handsomexdd1024)
 
-[电子邮件：handsomexdd1024@gmail.com](mailto: handsomexdd1024@gmail.com)
+[电子邮件：handsomexdd1024@gmail.com](mailto:handsomexdd1024@gmail.com)

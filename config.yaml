@@ -10,11 +10,11 @@ hasCJKLanguage: true
 
 params:
   math: true
-  fuse: true
+  # fuse: true
   useChineseFonts: true
   description: "小电动的个人博客（正在建设中）"
   outputs:
-    home: ["HTML", "JSON", "RSS"]
+    home: ["HTML", "JSON"]
 
 taxonomies:
   category: "categories"
